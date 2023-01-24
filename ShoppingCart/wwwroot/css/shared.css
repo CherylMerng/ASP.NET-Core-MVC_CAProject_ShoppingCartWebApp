@@ -1,0 +1,9 @@
+﻿body {
+    background-color: gainsboro;
+    font-family: monospace;
+}
+
+.error{
+    color: red;
+    font-weight: bold;
+}

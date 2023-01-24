@@ -1,0 +1,130 @@
+﻿html {
+    font-size: 14px;
+    position: relative;
+    min-height: 100%;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+
+table, td, th, tr {
+    border: 1px solid #0066cc;
+}
+
+td, th {
+    text-align: center;
+    padding: 8px;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 15px auto;
+}
+
+.item-container {
+    border: 3px solid #525252;
+    border-radius: 6px;
+    height: 350px;
+    width: 31%;
+    padding: 5px;
+    margin: 12px;
+    background-color: white;
+}
+
+.top-items-container {
+    height: 100%;
+}
+
+.image-container {
+    max-width: 75%;
+    max-height: 75%;
+    object-fit: contain;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image-size {
+    width: 150px;
+    height: 100px;
+}
+
+.product-name, .add-to-cart {
+    display: flex;
+    justify-content: center;
+}
+
+.product-name {
+    font-weight: bold;
+}
+
+.description{
+    height: 25%;
+}
+
+.add-to-cart {
+    text-align: center;
+    color: white;
+    margin-top: 7px;
+}
+
+.add-to-cart a{
+    color: white;
+}
+
+.add-to-cart a:hover{
+    font-weight: 700;
+}
+
+.total-item-indicator {
+    border: solid 2px black;
+    border-radius: 50%;
+    padding: 2px 8px;
+}
+
+.rating-icon {
+    text-align: center;
+}
+
+.header-container {
+    padding: 2vh;
+    padding-bottom: 6vh;
+    display: flex;
+}
+
+#header-username-container {
+    margin-left: 1%;
+}
+
+#header-middle-container {
+    text-align: center;
+    margin: auto auto auto 3%;
+}
+
+#header-cart-container {
+    margin-left: auto;
+    margin-right: 2%;
+}
+
+
+.search-btn {
+    margin-right: 1%;
+    border: solid 2px;
+    font-weight: bold;
+}
+
+.checked {
+    color: orange;
+}

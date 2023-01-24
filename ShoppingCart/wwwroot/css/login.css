@@ -1,0 +1,61 @@
+﻿html {
+    font-size: 14px;
+    position: relative;
+    min-height: 100%;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+
+td, th {
+    text-align: center;
+}
+
+label {
+    width: 100px;
+    display: inline-block;
+    font-family: monospace;
+    font-size: 18px;
+    float: right;
+}
+
+
+.login-form {
+    width: 80vh;
+    display: flex;
+    justify-content: center;
+    order: 1;
+    flex-direction: column;
+    border-color: white;
+}
+
+.login-input-box {
+    width: 100%;
+    border-width: 2px 2px 2px 2px;
+    margin-bottom: 10px;
+}
+
+.loginbtn {
+    width: 120px;
+    padding: 3px 3px 5px 3px;
+    border-width: 2px 2px 2px 2px;
+    box-shadow: 5px 5px 5px #000000;
+    font-size: 18px;
+    float: right;
+}
+
+.logintable {
+    border: none;
+    font-family: monospace;
+    width: 35%;
+    background-color: gainsboro;
+    margin: auto;
+}

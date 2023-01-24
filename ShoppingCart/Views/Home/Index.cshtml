@@ -1,0 +1,120 @@
+﻿@{
+    ViewData["Title"] = "Libraries Gallery";
+    string username = (string)ViewData["username"];
+    string isLoggedIn = (string)ViewData["isLoggedIn"];
+    string searchStr = (string)ViewData["searchStr"];
+    int totalItem = (int)ViewData["totalItem"];
+    List<Product> Products = (List<Product>)ViewData["products"];
+}
+
+<link rel="stylesheet" href="~/css/gallery.css" asp-append-version="true" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="~/js/gallery.js"></script>
+
+<div>
+    <div class="container header-container">
+        @{
+            if (isLoggedIn == "true"){
+            
+                            <div id="header-username-container"><b>Hello @username</b></div>
+                            <div id="header-middle-container">@Html.ActionLink("My Purchase", "ViewPurchase", "Home",new { Username = username}, null) | <a href="/Logout/Index"> Logout</a></div>
+            }
+        }
+        
+        <div id="header-cart-container">
+            <a href="/Home/Cart"><i style="font-size:24px;color:black;text-align:right;" class="fa">&#xf217;</i></a>
+            <b><span id="total" class="total-item-indicator">@totalItem</span></b>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="container">
+        <form action="/Home/Index" method="POST" class="d-flex" role="search">
+            <input name="searchStr" placeholder="Enter your search here..." class="form-control me-2" value="@searchStr" type="search" aria-label="Search">
+            <button class="btn btn-outline-secondary search-btn" type="submit">Search</button>
+        </form>
+    </div>
+    <br />
+
+    @if (string.IsNullOrEmpty(searchStr))
+    {
+        <div class="main-container">
+
+            @foreach (Product product in Products)
+            {
+                <div class="item-container">
+                    <div class="top-items-container">
+                        <div class="image-container"><img SRC="https://pixy.org/src/10/thumbs350/103675.jpg" class="image-size"></div>
+                        <div class="product-name">@product.Name</div>
+                        <div class="description">@product.Description</div>
+                        <br>
+
+                        @if (@product.AvgRating == "0")
+                        {
+                            @: No ratings
+                        }
+                        else
+                        {
+                            @:Rating: @product.AvgRating
+                        }<br />
+                        @for (int k = 1; k <= Convert.ToInt32(product.AvgRating); k++)
+                        {
+                            <span class="fa fa-star checked"></span>
+                        }
+                        @for (int l = Convert.ToInt32(product.AvgRating) + 1; l <= 5; l++)
+                        {
+                            <span class="fa fa-star"></span>
+                        }
+
+                        <div id=@product.ProductId class="add-to-cart btn btn-secondary">$@product.Price - Add To Cart</div>
+                    </div>
+                </div>
+            }
+        </div>
+
+    }
+    else if (Products.Count == 0)
+    {
+        <table class="table table-bordered table-dark-header table-responsive">
+            <tr><p style="text-align: center">Item Not Found</p></tr>
+        </table>
+    }
+    else
+    {
+        <div class="main-container">
+
+            @foreach (Product product in Products)
+            {
+                <div class="item-container">
+                    <div class="top-items-container">
+                        <div class="image-container"><img SRC="https://pixy.org/src/10/thumbs350/103675.jpg" class="image-size"></div>
+                        <div class="product-name">@product.Name</div>
+                        <div class="description">@product.Description</div>
+                        <br>
+
+                         @if (@product.AvgRating == "0")
+                        {
+                            @: No ratings
+                        }
+                        else
+                        {
+                            @:Rating: @product.AvgRating
+                        }<br />
+                        @for (int k = 1; k <= Convert.ToInt32(product.AvgRating); k++)
+                        {
+                            <span class="fa fa-star checked"></span>
+                        }
+                        @for (int l = Convert.ToInt32(product.AvgRating) + 1; l <= 5; l++)
+                        {
+                            <span class="fa fa-star"></span>
+                        }
+
+                        <div id=@product.ProductId class="add-to-cart btn btn-secondary">$@product.Price - Add To Cart</div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+
+</div>

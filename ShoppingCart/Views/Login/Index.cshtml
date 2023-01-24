@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Login";
+    string message = (string)ViewData["message"];
+}
+
+<link rel="stylesheet" href="~/css/login.css">
+
+<table class="logintable">
+    <form action="/Login/Index" method="POST">
+        <div class="login-form">
+
+            <br />
+
+    <tr>
+        <td>
+            <label> Username: </label>
+        </td>
+        <td>
+            <input class="login-input-box" name="username" id="username" />
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            <label> Password:</label>
+        </td>
+        <td>
+            <input class="login-input-box" type="password" name="password" id="password" />
+        </td>
+    </tr>
+
+
+    <tr>
+        <td colspan="2">
+            <input type="submit" class="loginbtn" value="Login" />
+        </td>
+    </tr>
+
+
+    </div>
+    </form>
+</table>
+<br>
+<p style="text-align:center" class="error">@message</p>

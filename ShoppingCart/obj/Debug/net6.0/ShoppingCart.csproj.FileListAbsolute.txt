@@ -1,0 +1,462 @@
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/obj/Debug/net6.0/ShoppingCart.csproj.AssemblyReference.cache
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/obj/Debug/net6.0/ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/obj/Debug/net6.0/ShoppingCart.AssemblyInfoInputs.cache
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/obj/Debug/net6.0/ShoppingCart.AssemblyInfo.cs
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/obj/Debug/net6.0/ShoppingCart.csproj.CoreCompileInputs.cache
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/obj/Debug/net6.0/ShoppingCart.MvcApplicationPartsAssemblyInfo.cache
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/obj/Debug/net6.0/ShoppingCart.RazorAssemblyInfo.cache
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/obj/Debug/net6.0/ShoppingCart.RazorAssemblyInfo.cs
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/bin/Debug/net6.0/appsettings.Development.json
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/bin/Debug/net6.0/appsettings.json
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/bin/Debug/net6.0/ShoppingCart.staticwebassets.runtime.json
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/bin/Debug/net6.0/ShoppingCart
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/bin/Debug/net6.0/ShoppingCart.deps.json
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/bin/Debug/net6.0/ShoppingCart.runtimeconfig.json
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/bin/Debug/net6.0/ShoppingCart.dll
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/bin/Debug/net6.0/ShoppingCart.pdb
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/obj/Debug/net6.0/staticwebassets.build.json
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/obj/Debug/net6.0/staticwebassets.development.json
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/obj/Debug/net6.0/scopedcss/bundle/ShoppingCart.styles.css
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/obj/Debug/net6.0/scopedcss/projectbundle/ShoppingCart.bundle.scp.css
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/obj/Debug/net6.0/ShoppingCart.csproj.CopyComplete
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/obj/Debug/net6.0/ShoppingCart.dll
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/obj/Debug/net6.0/refint/ShoppingCart.dll
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/obj/Debug/net6.0/ShoppingCart.pdb
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/obj/Debug/net6.0/ShoppingCart.genruntimeconfig.cache
+/Users/sherlinyeo/Documents/Graduate Diploma in Systems Analysis/SA 4102 Programming/ShoppingCart/ShoppingCart/obj/Debug/net6.0/ref/ShoppingCart.dll
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\bin\Debug\net6.0\appsettings.Development.json
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\bin\Debug\net6.0\appsettings.json
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\bin\Debug\net6.0\ShoppingCart.staticwebassets.runtime.json
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\bin\Debug\net6.0\ShoppingCart.exe
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\bin\Debug\net6.0\ShoppingCart.deps.json
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\bin\Debug\net6.0\ShoppingCart.runtimeconfig.json
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\bin\Debug\net6.0\ShoppingCart.dll
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\bin\Debug\net6.0\ShoppingCart.pdb
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.AssemblyReference.cache
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfoInputs.cache
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfo.cs
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CoreCompileInputs.cache
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.MvcApplicationPartsAssemblyInfo.cache
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cache
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cs
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\obj\Debug\net6.0\staticwebassets.build.json
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\obj\Debug\net6.0\staticwebassets.development.json
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\obj\Debug\net6.0\scopedcss\bundle\ShoppingCart.styles.css
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\obj\Debug\net6.0\scopedcss\projectbundle\ShoppingCart.bundle.scp.css
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CopyComplete
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.dll
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\obj\Debug\net6.0\refint\ShoppingCart.dll
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.pdb
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.genruntimeconfig.cache
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ref\ShoppingCart.dll
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\appsettings.Development.json
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\appsettings.json
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\ShoppingCart.staticwebassets.runtime.json
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\ShoppingCart.exe
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\ShoppingCart.deps.json
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\ShoppingCart.runtimeconfig.json
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\ShoppingCart.dll
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\ShoppingCart.pdb
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.AssemblyReference.cache
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfoInputs.cache
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfo.cs
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CoreCompileInputs.cache
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.MvcApplicationPartsAssemblyInfo.cache
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cache
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cs
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\staticwebassets.build.json
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\staticwebassets.development.json
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\scopedcss\bundle\ShoppingCart.styles.css
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\scopedcss\projectbundle\ShoppingCart.bundle.scp.css
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CopyComplete
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.dll
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\refint\ShoppingCart.dll
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.pdb
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.genruntimeconfig.cache
+D:\Cloud\Google Drive - shimata.kzh\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ref\ShoppingCart.dll
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\appsettings.Development.json
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\appsettings.json
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\ShoppingCart.staticwebassets.runtime.json
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\ShoppingCart.exe
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\ShoppingCart.deps.json
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\ShoppingCart.runtimeconfig.json
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\ShoppingCart.dll
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\ShoppingCart.pdb
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\System.Data.SqlClient.dll
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.AssemblyReference.cache
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfoInputs.cache
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfo.cs
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CoreCompileInputs.cache
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.MvcApplicationPartsAssemblyInfo.cache
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cache
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cs
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\staticwebassets.build.json
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\staticwebassets.development.json
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\scopedcss\bundle\ShoppingCart.styles.css
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\scopedcss\projectbundle\ShoppingCart.bundle.scp.css
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CopyComplete
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.dll
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\refint\ShoppingCart.dll
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.pdb
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.genruntimeconfig.cache
+H:\My Drive\NUS ISS\12. ISS Class\SA4102_ASP.NET\CA - Shopping Cart\Sherlin\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ref\ShoppingCart.dll
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\appsettings.json
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\ShoppingCart.staticwebassets.runtime.json
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\ShoppingCart.exe
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\ShoppingCart.deps.json
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\ShoppingCart.runtimeconfig.json
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\ShoppingCart.dll
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\ShoppingCart.pdb
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfo.cs
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cache
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cs
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\scopedcss\bundle\ShoppingCart.styles.css
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\scopedcss\projectbundle\ShoppingCart.bundle.scp.css
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CopyComplete
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.dll
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\refint\ShoppingCart.dll
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.pdb
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ShoppingCart.genruntimeconfig.cache
+C:\Users\trann\OneDrive\Desktop\ShoppingCart_edited\ShoppingCart\obj\Debug\net6.0\ref\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\ShoppingCart.staticwebassets.runtime.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\ShoppingCart.exe
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\ShoppingCart.deps.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\ShoppingCart.runtimeconfig.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\ShoppingCart.pdb
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfo.cs
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cs
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\scopedcss\bundle\ShoppingCart.styles.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\scopedcss\projectbundle\ShoppingCart.bundle.scp.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CopyComplete
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\refint\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.pdb
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.genruntimeconfig.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ref\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\ShoppingCart.staticwebassets.runtime.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\ShoppingCart.exe
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\ShoppingCart.deps.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\ShoppingCart.runtimeconfig.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\ShoppingCart.pdb
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfo.cs
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cs
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\scopedcss\bundle\ShoppingCart.styles.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\scopedcss\projectbundle\ShoppingCart.bundle.scp.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CopyComplete
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\refint\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.pdb
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ShoppingCart.genruntimeconfig.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_edited(Most Updated)\ShoppingCart\obj\Debug\net6.0\ref\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\ShoppingCart.staticwebassets.runtime.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\ShoppingCart.exe
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\ShoppingCart.deps.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\ShoppingCart.runtimeconfig.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\ShoppingCart.pdb
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfo.cs
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cs
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\scopedcss\bundle\ShoppingCart.styles.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\scopedcss\projectbundle\ShoppingCart.bundle.scp.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CopyComplete
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\refint\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.pdb
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.genruntimeconfig.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Daniel\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ref\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\ShoppingCart.staticwebassets.runtime.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\ShoppingCart.exe
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\ShoppingCart.deps.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\ShoppingCart.runtimeconfig.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\ShoppingCart.pdb
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfo.cs
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cs
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\scopedcss\bundle\ShoppingCart.styles.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\scopedcss\projectbundle\ShoppingCart.bundle.scp.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CopyComplete
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\refint\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.pdb
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ShoppingCart.genruntimeconfig.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.1\ShoppingCart\obj\Debug\net6.0\ref\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\bin\Debug\net6.0\ShoppingCart.staticwebassets.runtime.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\bin\Debug\net6.0\ShoppingCart.exe
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\bin\Debug\net6.0\ShoppingCart.deps.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\bin\Debug\net6.0\ShoppingCart.runtimeconfig.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\bin\Debug\net6.0\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\bin\Debug\net6.0\ShoppingCart.pdb
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\obj\Debug\net6.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfo.cs
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\obj\Debug\net6.0\ShoppingCart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cs
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\obj\Debug\net6.0\scopedcss\bundle\ShoppingCart.styles.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\obj\Debug\net6.0\scopedcss\projectbundle\ShoppingCart.bundle.scp.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CopyComplete
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\obj\Debug\net6.0\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\obj\Debug\net6.0\refint\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\obj\Debug\net6.0\ShoppingCart.pdb
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\obj\Debug\net6.0\ShoppingCart.genruntimeconfig.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.2\ShoppingCart\obj\Debug\net6.0\ref\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\bin\Debug\net6.0\ShoppingCart.staticwebassets.runtime.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\bin\Debug\net6.0\ShoppingCart.exe
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\bin\Debug\net6.0\ShoppingCart.deps.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\bin\Debug\net6.0\ShoppingCart.runtimeconfig.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\bin\Debug\net6.0\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\bin\Debug\net6.0\ShoppingCart.pdb
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\obj\Debug\net6.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfo.cs
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\obj\Debug\net6.0\ShoppingCart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cs
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\obj\Debug\net6.0\scopedcss\bundle\ShoppingCart.styles.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\obj\Debug\net6.0\scopedcss\projectbundle\ShoppingCart.bundle.scp.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CopyComplete
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\obj\Debug\net6.0\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\obj\Debug\net6.0\refint\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\obj\Debug\net6.0\ShoppingCart.pdb
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\obj\Debug\net6.0\ShoppingCart.genruntimeconfig.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.25\ShoppingCart\obj\Debug\net6.0\ref\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\bin\Debug\net6.0\ShoppingCart.staticwebassets.runtime.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\bin\Debug\net6.0\ShoppingCart.exe
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\bin\Debug\net6.0\ShoppingCart.deps.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\bin\Debug\net6.0\ShoppingCart.runtimeconfig.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\bin\Debug\net6.0\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\bin\Debug\net6.0\ShoppingCart.pdb
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\obj\Debug\net6.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfo.cs
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\obj\Debug\net6.0\ShoppingCart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cs
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\obj\Debug\net6.0\scopedcss\bundle\ShoppingCart.styles.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\obj\Debug\net6.0\scopedcss\projectbundle\ShoppingCart.bundle.scp.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CopyComplete
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\obj\Debug\net6.0\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\obj\Debug\net6.0\refint\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\obj\Debug\net6.0\ShoppingCart.pdb
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\obj\Debug\net6.0\ShoppingCart.genruntimeconfig.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.26\ShoppingCart\obj\Debug\net6.0\ref\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\bin\Debug\net6.0\ShoppingCart.staticwebassets.runtime.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\bin\Debug\net6.0\ShoppingCart.exe
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\bin\Debug\net6.0\ShoppingCart.deps.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\bin\Debug\net6.0\ShoppingCart.runtimeconfig.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\bin\Debug\net6.0\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\bin\Debug\net6.0\ShoppingCart.pdb
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\obj\Debug\net6.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfo.cs
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\obj\Debug\net6.0\ShoppingCart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cs
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\obj\Debug\net6.0\scopedcss\bundle\ShoppingCart.styles.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\obj\Debug\net6.0\scopedcss\projectbundle\ShoppingCart.bundle.scp.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CopyComplete
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\obj\Debug\net6.0\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\obj\Debug\net6.0\refint\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\obj\Debug\net6.0\ShoppingCart.pdb
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\obj\Debug\net6.0\ShoppingCart.genruntimeconfig.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27\ShoppingCart\obj\Debug\net6.0\ref\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\bin\Debug\net6.0\ShoppingCart.staticwebassets.runtime.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\bin\Debug\net6.0\ShoppingCart.exe
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\bin\Debug\net6.0\ShoppingCart.deps.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\bin\Debug\net6.0\ShoppingCart.runtimeconfig.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\bin\Debug\net6.0\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\bin\Debug\net6.0\ShoppingCart.pdb
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\obj\Debug\net6.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfo.cs
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\obj\Debug\net6.0\ShoppingCart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\obj\Debug\net6.0\ShoppingCart.RazorAssemblyInfo.cs
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\obj\Debug\net6.0\scopedcss\bundle\ShoppingCart.styles.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\obj\Debug\net6.0\scopedcss\projectbundle\ShoppingCart.bundle.scp.css
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CopyComplete
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\obj\Debug\net6.0\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\obj\Debug\net6.0\refint\ShoppingCart.dll
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\obj\Debug\net6.0\ShoppingCart.pdb
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\obj\Debug\net6.0\ShoppingCart.genruntimeconfig.cache
+C:\Users\User\Documents\NUS Stuff\ASP.Net\Course Assignment\Final\ShoppingCart_Compiled v0.27_CSSfix\ShoppingCart\obj\Debug\net6.0\ref\ShoppingCart.dll

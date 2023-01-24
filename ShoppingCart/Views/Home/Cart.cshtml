@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewData["Title"] = "My Cart";
+    List<Cart> Cartlist = (List<Cart>)ViewData["CartList"];
+}
+
+<link rel="stylesheet" href="~/css/cart.css" asp-append-version="true" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="~/js/cart.js"></script>
+
+@*--------------Header------------*@
+<div>
+    <p>
+        <b>View Cart</b><a href="/Home/Index" style="padding-left:20px">Continue Shopping</a> | <a href="/Home/Purchase">Checkout</a>
+        @{
+            var sum = 0;
+            foreach (Cart item in Cartlist) {
+                sum += (item.Price * item.Quantity);
+            }
+        }
+        <span style="padding: 0 20px" class="alignright bfont">Total: $ <input type="text" id="total" class='alignright readonly bfont' value='@sum' readonly></span>
+    </p>
+</div>
+
+<div>
+    @{       
+        if (Cartlist.Count == 0)
+        {
+            <br />
+            <p style="text-align:center" id="cstatus" class="bfont2">Your cart is currently empty.</p>
+        }
+        else{
+            <br />
+            <p style="text-align:center" id="cstatus" class="bfont2"></p>
+
+            foreach (Cart item in Cartlist)
+            {
+                <table class="cart-table" id="@item.Name">
+                    <tr>
+                        <td class="item-cell">
+                            <div class="image-container"><img SRC="https://pixy.org/src/10/thumbs350/103675.jpg" width="150" height="100"></div>
+                            <div class="product-name">@item.Name</div>
+                            <div>@item.Description</div>
+                        </td>
+                        <td class="PriceQuantity-cell">
+                            <input type="hidden" id=P0+@item.ProductId value=@item.Price>
+                            <div>Price: $ <input type="text" id=P1+@item.ProductId class='readonly' value='@(item.Price * item.Quantity)' readonly></div>
+                            <div>Quantity: <input id='@item.ProductId' class='InputQuant qty' type='number' value='@item.Quantity' min="1" /></div>
+                        </td>
+                        <td>
+                            <button class="btn" onclick="deletefromcart('@item.ProductId', '0', '@item.Name')"><i class="fa fa-close"></i></button>
+                        </td>
+                    </tr>
+                </table>
+            }
+        }
+    }
+</div>

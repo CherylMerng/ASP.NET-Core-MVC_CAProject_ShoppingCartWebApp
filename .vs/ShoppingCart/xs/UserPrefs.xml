@@ -1,0 +1,70 @@
+﻿<Properties StartupConfiguration="{5644F4E1-FFB4-44EA-B714-EB01D0445BDA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShoppingCart/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="ShoppingCart/Controllers/HomeController.cs" Line="55" Column="23" />
+      <File FileName="ShoppingCart/Program.cs" Line="18" Column="1" />
+      <File FileName="ShoppingCart/Controllers/LoginController.cs" Line="35" Column="51" />
+      <File FileName="ShoppingCart/Create_Databases.sql" Line="64" Column="13" />
+      <File FileName="ShoppingCart/Views/Home/Index.cshtml" Line="38" Column="77" />
+      <File FileName="ShoppingCart/Controllers/LogoutController.cs" Line="24" Column="34" />
+      <File FileName="ShoppingCart/Models/ErrorViewModel.cs" Line="10" Column="1" />
+      <File FileName="ShoppingCart/Views/Login/Index.cshtml" Line="2" Column="31" />
+      <File FileName="ShoppingCart/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="ShoppingCart/appsettings.json" Line="10" Column="45" />
+      <File FileName="ShoppingCart/Data/Database.cs" Line="161" Column="31" />
+      <File FileName="ShoppingCart/Models/User.cs" Line="8" Column="23" />
+      <File FileName="ShoppingCart/Views/Home/Purchase.cshtml" Line="1" Column="1" />
+      <File FileName="ShoppingCart/wwwroot/css/site.css" Line="30" Column="1" />
+      <File FileName="ShoppingCart/Views/Home/Cart.cshtml" Line="1" Column="1" />
+      <File FileName="ShoppingCart/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="ShoppingCart/Views/Shared/_Layout.cshtml" Line="11" Column="6" />
+      <File FileName="ShoppingCart/Models/Product.cs" Line="7" Column="27" />
+      <File FileName="ShoppingCart/wwwroot/js/site.js" Line="1" Column="16" />
+      <File FileName="ShoppingCart/Views/Shared/Error.cshtml" Line="1" Column="1" />
+      <File FileName="ShoppingCart/Models/Cart.cs" Line="7" Column="4" />
+      <File FileName="ShoppingCart/Models/OrderList.cs" Line="11" Column="1" />
+      <File FileName="ShoppingCart/Models/OrderDetails.cs" Line="9" Column="6" />
+      <File FileName="ShoppingCart/Models/PersonalRating.cs" Line="8" Column="43" />
+      <File FileName="ShoppingCart/Views/_ViewImports.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShoppingCart" expanded="True">
+            <Node name="ShoppingCart" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Login" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ShoppingCart PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

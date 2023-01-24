@@ -1,0 +1,83 @@
+﻿table, td, th, tr {
+    border: none;
+}
+
+td, th {
+    text-align: center;
+    padding: 8px;
+}
+
+.bfont{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.bfont2 {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.cart-container {
+    border: 1px solid #525252;
+    height: 220px;
+    width: 31%;
+    padding: 10px 15px;
+    margin: 12px;
+}
+
+.top-cart-container {
+    height: 85%;
+}
+
+.cart-table {
+    border: none;
+    height: 220px;
+    width: 80%;
+    padding: 10px 15px;
+    margin: 10px auto 10px auto;
+}
+
+.item-cell {
+    border: 1px solid #525252;
+    width: 30%;
+    background-color: white;
+}
+
+.image-container {
+    max-width: 75%;
+    max-height: 75%;
+    object-fit: contain;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.product-name {
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+
+
+.PriceQuantity-cell {
+    border: none;
+    width: 50%;
+    text-align: left;
+    padding-left: 50px;
+}
+
+.qty {
+    width: 50px;
+}
+
+.readonly {
+    border: none;
+    outline: none;
+    background-color: gainsboro;
+    width: 70px;
+}
+
+.alignright{
+    float: right;
+}

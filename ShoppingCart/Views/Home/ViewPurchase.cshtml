@@ -1,0 +1,106 @@
+﻿@{
+    ViewData["Title"] = "My Purchases";
+    string username = (string)ViewData["username"];
+    IEnumerable<OrderDetails> Purchase = (IEnumerable<OrderDetails>)ViewData["Purchase"];
+    if (Purchase.Count() != 0)
+    {
+        foreach (var product in Purchase)
+        {
+
+            foreach (var code in product.ActivationCode)
+            {
+                product.Quantity += 1;
+            }
+
+        }
+
+    }
+
+}
+
+<link rel="stylesheet" href="~/css/purchase.css" asp-append-version="true" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="~/js/purchase.js"></script>
+
+<div class="text-left">
+    <p>
+        <b>My Purchases</b> <a href="/Home/Index">Home</a> | <a href="/Logout/Index">Logout</a>
+    </p>
+</div>
+
+@if (Purchase.Count() == 0)
+{
+    @:<span style="text-align:center" class="bfont2">You have no purchases yet.</span>
+}
+else
+{
+    @:<table>
+        @foreach (OrderDetails product in Purchase)
+        {
+            <tr>
+                <td class="item-cell">
+                    <div class="image-container"><img SRC="https://pixy.org/src/10/thumbs350/103675.jpg" width="150" height="100"></div>
+                    <div class="product-name">@product.Name</div> 
+                    <div>@product.Description</div> 
+                    <br> <button class="btn">Download</button>
+                </td>
+                <td class="customtd">
+                    Purchased On: @product.PurchaseDate<br />
+                    Quantity: @product.Quantity<br />
+                    @if (product.Quantity == 1)
+                    {
+                        @:Activation Code:
+                        @foreach (var code in product.ActivationCode)
+                        {
+                            @code<br />
+                        }
+                    }
+                    else
+                    {
+                        <label>Activation Code </label>
+                        <select>
+                            <option selected>@product.ActivationCode[0]</option>
+                            @for (int i = 1; i < product.ActivationCode.Count; i++)
+                            {
+                                <option>@product.ActivationCode[i]</option>
+                            }
+                        </select>
+                    }
+                </td>
+                <td>
+                    <label> Review and Give Rating (1 to 5) </label>
+                    <br>
+                    <select id="@product.ProductId@product.PurchaseDate">
+                        <option value="0" disabled selected> -- select a rating -- </option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                    </select>
+                    <button onclick="submitRating(@product.ProductId,'@username','@product.PurchaseDate')"> Submit Rating</button>
+                    <p id="@product.ProductId@product.PurchaseDate@username">
+                        <br>
+                        @if (@product.Rating == "0")
+                        {
+                            @:You have not submitted any ratings for this purchase yet.
+                        }
+                        else
+                        {
+                            @:Your rating for this purchase is @product.Rating.
+                            <br>
+                            @for (int k = 1; k <= Convert.ToInt32(@product.Rating); k++)
+                            {
+                                @: <span class="fa fa-star checked"></span>
+                            }
+                            @for (int l = Convert.ToInt32(@product.Rating) + 1; l <= 5; l++)
+                            {
+                                @: <span class="fa fa-star"></span>
+                            }
+                            @:<br><span class="sfont">*If you would like to update your rating, please resubmit another rating.</span>
+
+                        }
+                    </p>
+                </td></tr>
+            }@:</table>
+}
